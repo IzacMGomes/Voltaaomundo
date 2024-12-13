@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Descubra Marrocos</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="marrocos.png">
+
+</head>
+<body>
+<header>
+    <h1>Bem-vindo a Marrocos</h1>
+    <nav>
+    <ul>
+    <li><a href="historia.html">História</a></li>
+    <li><a href="cultura.html">Cultura</a></li>
+    <li><a href="pontos-turisticos.html">Pontos Turísticos</a></li>
+    <li><a href="gastronomia.html">Gastronomia</a></li>
+    </ul>
+    </nav>
+    </header>
+    <section id="historia">
+    <h2>História de Marrocos</h2>
+     <p><b>Aspectos Culturais e Religiosos</b> <br>
+        A cultura marroquina é uma fusão de influências berberes, árabes, africanas e europeias. <br>
+        O Islã é a religião predominante, mas há uma longa história de convivência com judeus e cristãos no país. <br>
+        A arquitetura, gastronomia, música (como o estilo gnawa) e artesanato refletem a rica herança cultural. <br>
+        Marrocos é um país de grande diversidade, que conseguiu equilibrar sua tradição com a modernidade, <br>mantendo um papel importante no cenário político e cultural do norte da África.. <br> 
+       
+     Marrocos, nos tempos atuais, é um país que combina tradições históricas com modernidade. Localizado no norte da África, é conhecido por sua rica cultura, influenciada por árabes, berberes e europeus. Sua economia é diversificada, destacando-se o turismo,<br> a agricultura (como a produção de azeite e tâmaras) e a mineração de fosfato. Rabat é a capital política, mas Marrakesh, <br>Casablanca e Fez são centros culturais e turísticos populares.
+
+No cenário político, Marrocos é uma monarquia constitucional liderada pelo rei Mohammed VI, que tem promovido reformas econômicas e sociais, embora desafios como desigualdade e desemprego ainda existam. Recentemente, o país também se destacou no esporte, com a seleção de futebol surpreendendo ao chegar às semifinais da Copa do Mundo de 2022. Além disso, Marrocos tem investido em energia renovável, incluindo o complexo solar Noor, um dos maiores do mundo.    
+    
+    </p>
+    
+    <div id="img"> 
+    <img src="https://images.pexels.com/photos/16033961/pexels-photo-16033961/free-photo-of-feriado-onda-bandeira-banner.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Imagens históricas de Marrocos"></div>
+   
+    <section id="gastronomia">
+   
+    <h2>Curiosidades sobre Marrocos</h2>
+    <p>Você sabia que Marrocos tem uma grande diversidade étnica e cultural? As diferentes paisagens do Marrocos
+        O Marrocos é um país de contrastes! Você verá o deserto do Sahara com dromedários e dunas e do outro lado cidades muito coloridas como Marrakesh onde a cor oficial é vermelho e Chefchaouen, a famosa cidade azul! Todas as paredes da medina foram pintadas de azul para simbolizar o céu.
+        
+        Outro constraste que ninguém imagina até visitar o Marrocos é a cordilheira de montanhas gigantes com mais de 3 mil metros de altura! Neva em vários lugares do Marrocos e existe até uma estação de ski com sete teleféricos e mais de 10 quilômetros de pistas de esqui. Com certeza uma das curiosidades sobre o Marrocos que pouca gente sabe!
+        
+    </p>
+    
+    </section>
+    
+        <footer>
+    <p>&copy; 2024 Descubra Marrocos</p>
+    </footer>
+    </body>
+    </html>
+
