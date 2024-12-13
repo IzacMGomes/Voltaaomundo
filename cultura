@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cultura local</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="marrocos.png">
+</head>
+<header>
+<h1>Bem-vindo a Marrocos</h1>
+<nav>
+<ul>
+<li><a href="historia.html">História</a></li>
+<li><a href="cultura.html">Cultura</a></li>
+<li><a href="pontos-turisticos.html">Pontos Turísticos</a></li>
+<li><a href="gastronomia.html">Gastronomia</a></li>
+</ul>
+</nav>
+</header>
+<body>
+    
+
+</section>
+<section id="cultura">
+<h2>Cultura de Marrocos</h2>
+<p>A cultura marroquina é uma fusão rica de influências berberes, árabes, africanas e europeias. Sua identidade é moldada pela religião islâmica, que está profundamente enraizada nas tradições, arquitetura e costumes do país.
+
+    Marrocos é conhecido por seus souks (mercados), onde artesanatos, especiarias e tecidos coloridos refletem a criatividade e habilidade de seus artesãos. A música e a dança são elementos centrais, com estilos como o Gnawa e o Chaabi, que celebram a diversidade do país.
+    
+    A hospitalidade é uma marca registrada da cultura marroquina. O chá de menta, símbolo de boas-vindas, é uma tradição importante. Festivais religiosos e culturais, como o Ramadã e o Festival de Marrakech, também desempenham um papel essencial na vida social. 
+    
+    Essa riqueza cultural faz de Marrocos um país único e cativante.</p>
+     <div class="image-container">
+    <div id="img">
+<img src="https://th.bing.com/th/id/R.eb68176e315464595fe880731ad69f1e?rik=V%2fM2RDErGK8MIw&pid=ImgRaw&r=0" alt="imagem1" ></div>
+
+<p> Marrocos é um país de cultura rica e profundamente enraizada em sua história, com influências berberes, árabes, africanas e europeias que moldaram sua identidade ao longo dos séculos. O país é conhecido por sua hospitalidade, tradição e diversidade de expressões culturais.
+
+    A gastronomia marroquina é uma das mais apreciadas no mundo, destacando-se por seus pratos saborosos e bem temperados. Receitas como tajine, cuscuz e harira são comuns em todas as regiões, sempre acompanhadas pelo famoso chá de menta, que simboliza hospitalidade e é consumido em todas as ocasiões.
+    
+    A música e a dança ocupam um papel central na cultura. Os ritmos variam de acordo com as regiões, indo desde os sons espirituais do gnawa até o chaabi, mais popular e festivo. Esses estilos musicais são muitas vezes celebrados em festivais que ocorrem ao longo do ano.
+    
+    A arte marroquina está presente nas medinas e nos mercados, onde mosaicos coloridos, tapetes tecidos à mão e cerâmicas finamente trabalhadas refletem a habilidade artesanal passada de geração em geração. A arquitetura é outro aspecto marcante, com edifícios que combinam detalhes islâmicos e mouriscos, como arcos ornamentados, jardins internos e fachadas cobertas de azulejos.
+    
+    Marrocos é um país de tradições, onde as celebrações religiosas, como o Ramadã e o Eid al-Fitr, reúnem famílias e comunidades. Também há festas culturais, como as celebrações das rosas na região de El Kelaa M’Gouna e os mercados de camelos em áreas rurais, que revelam o ritmo da vida tradicional.
+    
+    A essência da cultura marroquina reside na combinação harmoniosa de tradição e modernidade, criando um mosaico cultural vibrante e acolhedor.</p>
+</section>
+</body>
+</html>
