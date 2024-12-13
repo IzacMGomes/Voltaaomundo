@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="marrocos.png">
+   
+</head>
+<header>
+<h1>Bem-vindo a Marrocos</h1>
+<nav>
+<ul>
+<li><a href="historia.html">História</a></li>
+<li><a href="cultura.html">Cultura</a></li>
+<li><a href="pontos-turisticos.html">Pontos Turísticos</a></li>
+<li><a href="gastronomia.html">Gastronomia</a></li>
+</ul>
+</nav>
+</header>
+<body>
+    
+
+    <section id="pontos-turisticos">
+        <h2>Pontos Turísticos</h2>
+        <p>Ouarzazate é uma cidade localizada no sudeste de Marrocos, entre as montanhas do Alto Atlas e o deserto do Saara. É conhecida como a "Porta do Deserto" devido à sua posição estratégica como ponto de partida para explorar as vastas dunas e paisagens áridas da região.
+
+            A cidade possui uma rica história, sendo um antigo ponto de parada para caravanas que atravessavam o Saara transportando mercadorias como ouro e especiarias. Sua arquitetura é caracterizada por kasbahs, grandes fortalezas construídas em barro e palha, que eram usadas como residências e postos de defesa. Um exemplo notável é a Kasbah de Taourirt, situada no coração da cidade.
+            
+            Próximo a Ouarzazate está um dos locais mais famosos da região, a vila fortificada de Ait-Ben-Haddou. Este sítio histórico é um exemplo impressionante da arquitetura tradicional do sul de Marrocos, com edifícios feitos de argila e dispostos em colinas, oferecendo vistas deslumbrantes da paisagem ao redor.
+            
+            A cidade é cercada por paisagens desérticas e vales exuberantes, como o Vale do Draa e o Vale das Rosas, conhecidos por seus oásis e plantações. É um ponto de partida popular para passeios ao deserto, que incluem travessias de camelo e acampamentos em tendas sob o céu estrelado.
+            
+            Ouarzazate também se destaca como um centro cultural e artístico. Os mercados locais oferecem uma variedade de artesanatos, especiarias e tecidos típicos da região. Além disso, sua localização privilegiada e cenários naturais fazem dela um destino que atrai visitantes em busca de aventura, história e a beleza única do deserto.</p>
+        <div id="img">
+        <img src="https://images.pexels.com/photos/943510/pexels-photo-943510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Paisagens e pontos turísticos de Marrocos"></div>
+        </section>
+</body>
+</html>
