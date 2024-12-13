@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<header>
+<h1>Bem-vindo a Marrocos</h1>
+<nav>
+<ul>
+<li><a href="historia.html">História</a></li>
+<li><a href="cultura.html">Cultura</a></li>
+<li><a href="pontos-turisticos.html">Pontos Turísticos</a></li>
+<li><a href="gastronomia.html">Gastronomia</a></li>
+</ul>
+</nav>
+</header>
+<body>
+    
+
+    <h2>Gastronomia de Marrocos</h2>
+    <p>A gastronomia de Marrocos é uma das mais ricas e diversificadas do mundo, conhecida por sua mistura de sabores, temperos e ingredientes frescos. Influenciada por várias culturas, como a árabe, berbere, africana e mediterrânea, a cozinha marroquina é uma verdadeira celebração de aromas e tradições. Aqui estão alguns dos pratos e elementos principais que definem essa culinária fascinante:
+
+        Especiarias e Temperos
+        A culinária marroquina se distingue pelo uso generoso de especiarias e temperos que dão aos pratos uma profundidade única. Cominho, canela, açafrão, gengibre, cúrcuma e pimentão são comuns, e o ras el hanout, uma mistura de especiarias, é amplamente utilizado em muitos pratos.
+        
+        Pratos Tradicionais
+        Cuscuz: Um dos pratos mais tradicionais, feito com sêmola de trigo cozida e servido com uma variedade de legumes e carnes, como carneiro, frango ou boi. Geralmente é acompanhado de um caldo saboroso.
+        
+        Tajine: Este é um cozido feito em um recipiente de barro, também chamado tajine. É preparado com carne (geralmente frango ou carneiro), legumes, frutas secas e temperos, criando um prato que mistura sabores doces e salgados de forma equilibrada.
+        
+        Pastilla: Uma iguaria requintada, geralmente feita com carne de pombo ou frango, amêndoas, ovos e especiarias, envolta em várias camadas finas de massa. O sabor mistura o doce e o salgado, tornando-a uma verdadeira delícia.
+        
+        Harira: Uma sopa espessa, frequentemente consumida durante o Ramadã, feita com tomate, lentilhas, grão-de-bico, carne e uma combinação de ervas e especiarias. É nutritiva e saborosa, ideal para quebrar o jejum.
+        
+        Pães e Acompanhamentos
+        O pão é um alimento essencial, e um dos mais populares é o khobz, que acompanha quase todas as refeições. As saladas frescas, feitas com legumes como tomate, pepino e pimentão, temperadas com azeite e limão, também são frequentemente servidas como acompanhamento.
+        
+        Doces e Sobremesas
+        Os doces marroquinos são deliciosamente ricos, geralmente preparados com mel, amêndoas e águas florais. O baklava, feito de camadas finas de massa folhada com nozes e mel, é um exemplo popular. Outro doce tradicional é o sellou, uma mistura doce e espessa de amêndoas e farinha de trigo, muito comum em festividades.
+        
+        Bebidas
+        A bebida mais emblemática é o chá de menta, feito com folhas de hortelã frescas e chá verde. O chá é uma parte fundamental da hospitalidade marroquina e é servido em pequenas xícaras, muitas vezes em cerimônias rituais.
+        
+        A gastronomia de Marrocos é um reflexo de sua história e diversidade cultural, oferecendo pratos que são tanto nutritivos quanto deliciosos. Cada refeição é uma experiência sensorial, com sabores que cativam e encantam.
+        
+        
+        
+        
+        
+        
+        
+        </p>
+   
+   <div id="img">
+    <img src="https://images.pexels.com/photos/2290743/pexels-photo-2290743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Pratos típicos de Marrocos"> </div>
+    </section>
+    <section id="gastronomia.html">
+</body>
+</html>
