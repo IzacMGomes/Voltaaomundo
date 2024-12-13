@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="icon" href="marrocos.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+ <h1>História</h1> 
+ 
+ <section id="historia">
+    <h2>História de Marrocos</h2>
+    <p>A história de Marrocos é rica e diversa, marcada por influências berberes, árabes e europeias. Desde a pré-história, a região foi habitada por povos berberes. Durante o século VII, a chegada dos árabes trouxe o Islã, que moldou profundamente a cultura e o governo do país.
+
+        Marrocos foi sede de dinastias poderosas, como os almorávidas e os almohadas, que expandiram seu território e sua influência. No século XV, enfrentou pressões europeias devido à sua localização estratégica. Apesar disso, manteve sua independência até o início do século XX, quando se tornou um protetorado francês e espanhol.
+        
+        Em 1956, Marrocos recuperou sua independência e se tornou uma monarquia constitucional. Hoje, é conhecido por sua rica herança cultural, que reflete séculos de intercâmbio entre civilizações.</p>
+   
+        <img src="https://th.bing.com/th/id/OIP.2hmH_2Q2K2uW6ZwmeTyf8QEgDY?rs=1&pid=ImgDetMain" alt="Imagens históricas de Marrocos">
+   </header>
+</body>
+</html>
